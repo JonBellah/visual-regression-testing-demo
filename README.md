@@ -10,17 +10,17 @@ If you haven't used [Grunt](http://gruntjs.com/) before, be sure to check out th
 Install packages:
 
 ```
-  $ npm install
+$ npm install
 ```
 
 Spin up an HTTP server for our directory
 
 ```
-  python -m SimpleHTTPServer 8000
+$ python -m SimpleHTTPServer 8000
 ```
 
-Then, once the plugin has been installed via `npm install`, it may be enabled inside your Gruntfile with this line of JavaScript:
+Then, once the plugin has been installed via `npm install`, you can run your tests by running:
 
 ```
-  $ grunt test --url=http://localhost:8000
+$ grunt test --url=http://localhost:8000
 ```
