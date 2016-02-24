@@ -1,4 +1,6 @@
-# Visual Regression Testing Demo
+# Visual Regression Testing with PhantomCSS - Demo
+
+Slides for this talk can be found at https://jonbellah.com/talks/js-summit
 
 ## Getting Started
 This plugin requires Grunt `~0.4.5`
