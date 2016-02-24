@@ -1,4 +1,4 @@
-# Visual Regression Testing with PhantomCSS - Demo
+# Visual Regression Testing Demo
 
 Slides for this talk can be found at https://jonbellah.com/talks/js-summit
 
