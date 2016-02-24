@@ -1,7 +1,5 @@
 # Visual Regression Testing Demo
 
-----
-
 ## Getting Started
 This plugin requires Grunt `~0.4.5`
 
